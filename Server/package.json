@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "to creating a text editer using the quill, react mangodb and sockitio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhinesh4668/text-editer-using-react-and-mangodb.git"
+  },
+  "author": "dhineshkumar (Dhinesh4668)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhinesh4668/text-editer-using-react-and-mangodb/issues"
+  },
+  "homepage": "https://github.com/Dhinesh4668/text-editer-using-react-and-mangodb",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
