@@ -1,3 +1,11 @@
+# this app made with react and quill 
+quill is text editer package for bulding a app to easyer 
+i am creating a my own word app with the help of react and quill, react-quill packages
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
