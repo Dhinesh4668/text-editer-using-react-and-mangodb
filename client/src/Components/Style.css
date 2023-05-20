@@ -2,19 +2,19 @@
 
 .container .ql-editor{
     /* background: red; */
-    width: 8.5in;
+    /* width: 8.5in;
     min-height: 11in;
     padding: 1in;
     border-radius: 0.05in;
     margin: 1rem;
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5); */
   
 }
 
 .container .ql-container.ql-snow{
     border: none;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 .container .ql-toolbar.ql-snow{
@@ -40,16 +40,15 @@
     }
     body{
         background: none;
-        scrollbar-width: none;
+        /* scrollbar-width: none; */
     }
     .container .ql-editor{
-        width: 6.5in;
+        /* width: 6.5in;
         height: 9in;
         margin: 0;
         padding: 0;
         box-shadow: none;
-        align-self: flex-start;
-        scrollbar-width: none;
+        align-self: flex-start; */
     }
     .container .ql-toolbar.ql-snow{
         display: none;
